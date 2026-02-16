@@ -1,7 +1,7 @@
 # AuthP - Next-Gen Authentication System 🚀
+<img width="1102" height="376" alt="screen" src="https://github.com/user-attachments/assets/bcd95b6c-487a-47f0-85a2-258023c939ef" />
 
-![AuthP Banner](![Uploading screen.png…]()
-)
+
 
 [![Node.js](https://img.shields.io/badge/Node.js-18.x-green.svg)](https://nodejs.org/)
 [![React](https://img.shields.io/badge/React-18.x-blue.svg)](https://reactjs.org/)
