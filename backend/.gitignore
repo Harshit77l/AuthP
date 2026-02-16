@@ -1,0 +1,43 @@
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+pip-packages/
+venv/
+env/
+.env
+
+# Environment variables
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Build
+dist/
+build/
+__pycache__/
+*.pyc
+
+# Database
+*.db
+*.sqlite3
+
+# Temporary files
+tmp/
+temp/
+.tmp/
