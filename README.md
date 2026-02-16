@@ -1,6 +1,6 @@
 # AuthP - Next-Gen Authentication System 🚀
 
-![AuthP Banner](https://placehold.co/1200x400/1e293b/ffffff?text=AuthP+Project+Banner)
+![AuthP Banner](./assets/banner.png)
 
 [![Node.js](https://img.shields.io/badge/Node.js-18.x-green.svg)](https://nodejs.org/)
 [![React](https://img.shields.io/badge/React-18.x-blue.svg)](https://reactjs.org/)
